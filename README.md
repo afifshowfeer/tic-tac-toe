@@ -57,4 +57,4 @@ A simple, interactive Tic Tac Toe game built using HTML, CSS, and JavaScript. Th
 
   ---
   ## Demo 🖥️
-  afifshowfeer.github.io/tic-tac-toe/
+   https://github.com/afifshowfeer/tic-tac-toe/
